@@ -1,0 +1,153 @@
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:288) - Request new DBConnection and add it to pool.
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:288) - Request new DBConnection and add it to pool.
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:288) - Request new DBConnection and add it to pool.
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:178) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:178) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:178) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:178) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 10:44:27 INFO  [main] (DBConnectionPool.java:178) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 10:46:47 INFO  [main] (DBConnectionPool.java:288) - Request new DBConnection and add it to pool.
+2013-02-06 10:46:47 INFO  [main] (DBConnectionPool.java:288) - Request new DBConnection and add it to pool.
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 10:54:36 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 10:56:10 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 10:58:50 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:291) - Request new DBConnection and add it to pool.
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 11:04:21 INFO  [main] (DBConnectionPool.java:181) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 14:27:28 WARN  [main] (DBConnectionPool.java:114) - Connection is not found in pool, please investigate!
+2013-02-06 14:36:50 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:186) - Connetion Pool Summary:
+	total count=>3	Cached count=>0	used count=>3
+
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:186) - Connetion Pool Summary:
+	total count=>3	Cached count=>3	used count=>0
+
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:186) - Connetion Pool Summary:
+	total count=>3	Cached count=>2	used count=>1
+
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:186) - Connetion Pool Summary:
+	total count=>2	Cached count=>2	used count=>0
+
+2013-02-06 14:37:12 INFO  [main] (DBConnectionPool.java:186) - Connetion Pool Summary:
+	total count=>0	Cached count=>0	used count=>0
+
+2013-02-06 14:42:44 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:42:44 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:42:44 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:42:59 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:42:59 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:42:59 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:52:30 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:52:30 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:52:30 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:52:30 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:52:30 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:54:19 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:19 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:19 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:19 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:54:19 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:54:25 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:25 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:25 INFO  [main] (DBConnectionPool.java:296) - Request new DBConnection and add it to pool.
+2013-02-06 14:54:25 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:54:25 WARN  [main] (DBConnectionPool.java:117) - Connection is not found in pool, please investigate!
+2013-02-06 14:58:06 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 14:58:06 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 14:58:06 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 14:58:06 WARN  [main] (DBConnectionPool.java:127) - Connection is not found in pool, please investigate!
+2013-02-06 15:04:53 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:04:53 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:04:53 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:04:53 WARN  [main] (DBConnectionPool.java:127) - Connection is not found in pool, please investigate!
+2013-02-06 15:11:19 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:11:19 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:11:19 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:11:19 WARN  [main] (DBConnectionPool.java:127) - Connection is not found in pool, please investigate!
+2013-02-06 15:29:30 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:29:30 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:29:30 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:29:30 WARN  [main] (DBConnectionPool.java:127) - Connection is not found in pool, please investigate!
+2013-02-06 15:32:28 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:32:28 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:32:28 INFO  [main] (DBConnectionPool.java:306) - Request new DBConnection and add it to pool.
+2013-02-06 15:32:28 WARN  [main] (DBConnectionPool.java:127) - Connection is not found in pool, please investigate!
